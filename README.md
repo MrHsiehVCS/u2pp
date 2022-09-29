@@ -1,7 +1,7 @@
 # u2pp
 
 ## Important Information
-Now that you know how to use if statements, loops, user input, output, and classes/inheritance, you can make literally any game that has every existed!
+Now that you know how to use if statements, loops, user input, output, and classes/inheritance, you can make literally any game that has ever existed!
 
 So, make something you think is cool! 
 
@@ -38,7 +38,7 @@ If it's something super ambitious, you can spend multiple projects working on di
 
 ## Grading
 
-Your grade will be scaled based on how ambitious your project was (easier to acheive high grades with a hard project, cannot achieve an A with a very simple project).
+Your grade will be scaled based on how ambitious your project was (easier to achieve high grades with a hard project, cannot achieve an A with a very simple project).
 
 You will be graded on 
 1. Functionality 
